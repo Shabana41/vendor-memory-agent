@@ -25,7 +25,7 @@ streamlit run app.py
 ```
 Use **Load demo data** in the sidebar once, or run `python seed.py`.
 
-## Deploy (Streamlit Community Cloud)
+## Deploy (Streamlit Community Cloud): https://vendor-memory-agent-asma.streamlit.app
 1. Push the code to GitHub. Never push `.env`; `.gitignore` already excludes it.
 2. On https://share.streamlit.io choose **New app**, select the repo, main file `app.py`.
 3. Under **Advanced settings > Secrets**, paste `.streamlit/secrets.toml.example` with real keys.

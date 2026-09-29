@@ -25,7 +25,10 @@ Check `git status` before committing. If `.env` appears, stop and fix `.gitignor
 - [ ] Live link opens and *Generate brief* works from another device
 
 ## Fill placeholders
-- [ ] `[GITHUB_LINK]`, `[DEPLOYED_LINK]`, `[TEAM NAMES]` in ARTICLE.md, SOCIAL_POST.md, VIDEO_SCRIPT.md, README.md
+- GITHUB_LINK:https://github.com/Asma957/vendor-memory-agent
+-DEPLOYED_LINK:https://vendor-memory-agent-asma.streamlit.app
+-TEAM NAMES:`
+ in ARTICLE.md, SOCIAL_POST.md, VIDEO_SCRIPT.md, README.md
 
 ## Deliverables
 - [ ] Clean GitHub repo

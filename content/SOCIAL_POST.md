@@ -8,8 +8,8 @@ It remembers how each vendor negotiates: who says no first, who is firm, who giv
 
 The app compares a Baseline agent with our Smart agent on the same Hindsight memory, so you can see the difference forgetting makes.
 
-Live demo: [DEPLOYED_LINK]
-Code: [GITHUB_LINK]
+Live demo: https://vendor-memory-agent-asma.streamlit.app
+Code: https://github.com/Asma957/vendor-memory-agent
 
 Thank you to the organizers at Microsoft Hyderabad and the Hindsight team.
 
@@ -23,6 +23,6 @@ Remembering is easy. Knowing which memories are still true is the hard part.
 
 We built a Vendor Memory Agent on @Hindsight that marks old contract terms as outdated so reps never negotiate with stale pricing.
 
-Demo: [DEPLOYED_LINK]
-Code: [GITHUB_LINK]
+Demo:https://vendor-memory-agent-asma.streamlit.app
+Code: https://github.com/Asma957/vendor-memory-agent
 #HackWithHyderabad

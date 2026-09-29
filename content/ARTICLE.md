@@ -1,6 +1,9 @@
 # Why Your Procurement AI Needs to Forget: Building a Vendor Memory Agent with Hindsight
 
-*Built for Hack With Hyderabad 3.0 by [TEAM NAMES]. Code: [GITHUB_LINK]. Live demo: [DEPLOYED_LINK].*
+*Built for Hack With Hyderabad 3.0 by [TEAM NAMES].
+Code:https://github.com/Asma957/vendor-memory-agent
+Live demo: 
+DEPLOYED_LINK:https://vendor-memory-agent-asma.streamlit.app.*
 
 ## The problem: remembering is not enough
 
@@ -50,4 +53,6 @@ Memory and forgetting are not new ideas. Our contribution is the angle: business
 
 Hindsight (Vectorize) for memory, Groq for the language model, Streamlit for the UI, Python throughout.
 
-*Try it: [DEPLOYED_LINK]. Source: [GITHUB_LINK].*
+*Try it: DEPLOYED_LINK:https://vendor-memory-agent-asma.streamlit.app
+. Source: GITHUB_LINK:https://github.com/Asma957/vendor-memory-agent
+
